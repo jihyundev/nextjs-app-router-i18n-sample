@@ -1,0 +1,27 @@
+{
+    "h1": "간단한 예제",
+    "change-locale": "\"{{changeTo}}\" 언어로 변경",
+    "to-second-page": "두 번째 페이지로",
+    "to-login-page": "로그인 페이지로",
+    "error-with-status": "서버에서 {{statusCode}} 오류가 발생했습니다",
+    "error-without-status": "서버에서 오류가 발생했습니다",
+    "title": "홈 | next-i18next",
+    "blog": {
+      "appDir": {
+        "question": "Next.js 13/14 앱 디렉토리를 사용하고 계신가요?",
+        "answer": "그렇다면 이 블로그 포스트를 확인해 보세요.",
+        "link": "https://locize.com/blog/next-app-dir-i18n/"
+      },
+      "optimized": {
+        "question": "모든 측면에서 최적화된 번역을 원하시나요?",
+        "answer": "그렇다면 이 블로그 포스트를 확인해 보세요.",
+        "link": "https://locize.com/blog/next-i18next/"
+      },
+      "ssg": {
+        "question": "SSG(next export)를 사용하고 싶으신가요?",
+        "answer": "그렇다면 이 블로그 포스트를 확인해 보세요.",
+        "link": "https://locize.com/blog/next-i18n-static/"
+      }
+    }
+  }
+  
