@@ -21,7 +21,8 @@
         "question": "Do you want to use SSG (next export)?",
         "answer": "Then you may have a look at this blog post.",
         "link": "https://locize.com/blog/next-i18n-static/"
-      }
+      },
+      "message": "Hello {name}!"
     }
   }
   
