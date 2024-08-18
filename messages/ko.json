@@ -23,6 +23,16 @@
         "link": "https://locize.com/blog/next-i18n-static/"
       },
       "message": "안녕하세요 {name} 님!"
+    },
+    "button": {
+        "next": "다음 페이지로",
+        "back": "이전 페이지로",
+        "back-to-home": "처음으로"
+    },
+    "page-title": {
+        "first": "첫 번째 페이지",
+        "second": "두 번째 페이지",
+        "third": "세 번째 페이지"
     }
   }
   

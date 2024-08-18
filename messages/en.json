@@ -23,6 +23,16 @@
         "link": "https://locize.com/blog/next-i18n-static/"
       },
       "message": "Hello {name}!"
+    },
+    "button": {
+        "next": "Next",
+        "back": "Back",
+        "back-to-home": "Back to Home"
+    },
+    "page-title": {
+        "first": "First page",
+        "second": "Second page",
+        "third": "Third page"
     }
   }
   

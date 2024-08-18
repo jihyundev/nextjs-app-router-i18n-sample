@@ -3,13 +3,13 @@ import {useTranslations} from 'next-intl';
 export const SampleClientComponent = () => {
     const t = useTranslations('blog')
     return (
-        <>
-            <p className="mb-10 text-xl text-center">
-                {t('appDir.answer')}
-            </p>
+        <div className="my-10">
             <p>
                 {t('message', {name: 'Jane'})}
             </p>
-        </>
+            <p>
+                {t('appDir.answer')}
+            </p>
+        </div>
     )
 }
