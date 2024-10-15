@@ -1,6 +1,6 @@
 'use client'
 
-import { Link, useRouter } from "@/navigation";
+import { Link, useRouter } from "@/i18n/routing";
 import {useTranslations} from 'next-intl';
 
 export const BackButon = () => {

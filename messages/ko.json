@@ -1,9 +1,9 @@
 {
     "h1": "간단한 예제",
-    "change-locale": "\"{{changeTo}}\" 언어로 변경",
+    "change-locale": "{changeTo} 언어로 변경",
     "to-second-page": "두 번째 페이지로",
     "to-login-page": "로그인 페이지로",
-    "error-with-status": "서버에서 {{statusCode}} 오류가 발생했습니다",
+    "error-with-status": "서버에서 {statusCode} 오류가 발생했습니다",
     "error-without-status": "서버에서 오류가 발생했습니다",
     "title": "홈 | next-i18next",
     "blog": {

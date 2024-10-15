@@ -1,9 +1,9 @@
 {
     "h1": "A simple example",
-    "change-locale": "Change locale to \"{{changeTo}}\"",
+    "change-locale": "Change locale to {changeTo}",
     "to-second-page": "To second page",
     "to-login-page": "To login page",
-    "error-with-status": "A {{statusCode}} error occurred on server",
+    "error-with-status": "A {statusCode} error occurred on server",
     "error-without-status": "An error occurred on the server",
     "title": "Home | next-i18next",
     "blog": {
